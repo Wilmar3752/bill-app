@@ -1,0 +1,5 @@
+## python=3.10
+streamlit==1.39.0     
+streamlit-pdf-viewer==0.0.19
+langchain-community==0.3.3
+pypdf==5.0.1
